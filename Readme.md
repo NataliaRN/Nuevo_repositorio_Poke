@@ -42,7 +42,6 @@ El protagonista de Pokémon rojo y azul es un joven preadolescente ***—el jueg
 </div>
 ```
 
-
 ## Producción
 
 Cargo | Responsable
@@ -53,4 +52,4 @@ Programadores | Teruki Murakawa <br> Kohta Fukui
 Diseño del mapa | Kenji Matsushima
 
 ## Fin
-Felicitaciones 🎉🎉🎉🎉
+
