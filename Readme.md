@@ -1,7 +1,7 @@
 # Pokémon rojo y Pokémon azul
 Pokémon Edición Roja y Pokémon Edición Azul (en inglés: Pokémon Red Version & Pokémon Blue Version)
 
-![logo pokemon](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/490px-International_Pok%C3%A9mon_logo.svg.png)
+![logo pokemon](https://camo.githubusercontent.com/b1c4757f226105c99b3b75eb988f4cfe470dc7eea206056c3a3bac77a8da75c5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39382f496e7465726e6174696f6e616c5f506f6b2543332541396d6f6e5f6c6f676f2e7376672f34393070782d496e7465726e6174696f6e616c5f506f6b2543332541396d6f6e5f6c6f676f2e7376672e706e67)
 
 - [Wikipedia visitar info completa](https://es.wikipedia.org/wiki/)
 
@@ -13,7 +13,7 @@ Los videojuegos fueron lanzados a la venta por primera vez en Japón, durante 19
 ## Ambientación
 Pokémon rojo y azul se desarrollan en la región ficticia de Kanto —la cual, a su vez, está basada en la región real de Kantō (Japón)—.17​ Se trata de una región diferente a las mostradas en títulos posteriores, con diferentes hábitats específicos para las 151 especies Pokémon existentes dentro del juego. 
 
-![mapa pokemon](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Japan_Kanto_Region_large.png/400px-Japan_Kanto_Region_large.png)
+![mapa pokemon](https://camo.githubusercontent.com/9cede76a8ceaf223b08e1efbebc3e1c0f6e3101e6b45110e5ff321691c82225a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62352f4a6170616e5f4b616e746f5f526567696f6e5f6c617267652e706e672f34303070782d4a6170616e5f4b616e746f5f526567696f6e5f6c617267652e706e67)
 
 #### Sinopsis (subtítulo 4)
 El protagonista de Pokémon rojo y azul es un joven preadolescente ***—el juego elige por defecto su nombre como «Rojo», aunque el jugador puede escogerlo libremente—*** que vive en un pequeño lugar llamado Pueblo Paleta.
